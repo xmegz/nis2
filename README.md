@@ -36,6 +36,6 @@ https://hu.wikipedia.org/wiki/ISO_27001
 https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
 
 # Nyilvántartás
-
+https://snipeitapp.com/
 
 
