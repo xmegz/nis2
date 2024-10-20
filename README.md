@@ -9,4 +9,5 @@ https://sztfh.hu/downloads/kiberbiztonsag/eszkoztar/SZTFH_nyilv%C3%A1ntartas_taj
 
 ### SZTFH - Nyilvántartásva vétel - 420 Nyivátartásba vételi kérelem
 https://sztfh.hu/ugyintezes/nyomtatvanyok-es-urlapok/sztfh420/
+https://sztfh.hu/downloads/kiberbiztonsag/SZTFH420_template_watermark.pdf
 
