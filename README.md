@@ -21,8 +21,10 @@ https://digital-strategy.ec.europa.eu/hu/news/new-rules-boost-cybersecurity-eus-
 ### Magyar Kormány - 2023. évi XXIII. törvény - a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről
 https://njt.hu/jogszabaly/2023-23-00-00
 
-### Miniszterelnöki Kabinetiroda -  biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről
+### Miniszterelnöki Kabinetiroda - 7/2024. (VI. 24.) MK rendelet -  biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről
 https://njt.hu/jogszabaly/2024-7-20-7G
 
+### NKI - Útmutató az MK rendelet gyakorlati alkalmazásához.
+https://nki.gov.hu/it-biztonsag/kiadvanyok/segedletek/eir-utmutato/
 
 
