@@ -35,7 +35,7 @@ https://hu.wikipedia.org/wiki/ISO_27001
 ### NIST - SP 800
 https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
 
-
+# Nyilvántartás
 
 
 
