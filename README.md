@@ -15,7 +15,7 @@ https://sztfh.hu/downloads/kiberbiztonsag/SZTFH420_template_watermark.pdf
 
 ## Jogszabályok
 
-### Eurónapi Bizottság - Új szabályok az EU kritikus fontosságú szervezetei és hálózatai kiberbiztonságának fokozására
+### Európai Bizottság - Új szabályok az EU kritikus fontosságú szervezetei és hálózatai kiberbiztonságának fokozására
 https://digital-strategy.ec.europa.eu/hu/news/new-rules-boost-cybersecurity-eus-critical-entities-and-networks
 
 ### Magyar Kormány - 2023. évi XXIII. törvény - a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről
