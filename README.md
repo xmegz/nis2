@@ -11,6 +11,7 @@ https://sztfh.hu/downloads/kiberbiztonsag/eszkoztar/SZTFH_nyilv%C3%A1ntartas_taj
 
 ### SZTFH - Nyilvántartásva vétel - 420 Nyivátartásba vételi kérelem
 https://sztfh.hu/ugyintezes/nyomtatvanyok-es-urlapok/sztfh420/
+
 https://sztfh.hu/downloads/kiberbiztonsag/SZTFH420_template_watermark.pdf
 
 # Jogszabályok
@@ -36,7 +37,8 @@ https://hu.wikipedia.org/wiki/ISO_27001
 https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
 
 # Nyilvántartás
-https://snipeitapp.com/
+https://snipeitapp.com
+
 https://www.combodo.com/itop-193
 
 # Gyűjtemény
