@@ -37,6 +37,7 @@ https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
 
 # Nyilvántartás
 https://snipeitapp.com/
+https://www.combodo.com/itop-193
 
 # Gyűjtemény
 https://advisera.com/toolkits/nis-2-documentation-toolkit/
