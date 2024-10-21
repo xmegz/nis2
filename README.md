@@ -44,4 +44,10 @@ https://www.combodo.com/itop-193
 # Gyűjtemény
 https://advisera.com/toolkits/nis-2-documentation-toolkit/
 
+# Informatikai biztonsági szabályzat minta
+https://webdream.hu/media/downloads/informatikai_biztonsagi_szabalyzat.pdf
+
+https://neumann.fandom.com/wiki/Minta:_Informatikai_Biztons%C3%A1gi_Szab%C3%A1lyzat
+
+https://www.lram.hu/images/dokumentumok/LRAM-Kft-Informatikai-Biztonsagi-Szabalyzat.pdf
 
