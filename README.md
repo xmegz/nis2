@@ -51,3 +51,5 @@ https://neumann.fandom.com/wiki/Minta:_Informatikai_Biztons%C3%A1gi_Szab%C3%A1ly
 
 https://www.lram.hu/images/dokumentumok/LRAM-Kft-Informatikai-Biztonsagi-Szabalyzat.pdf
 
+# Biztosítás
+https://www.colonnade.hu/hirek/nis2-megfeleles-es-kiberbiztonsag-penzugyi-vedelem-a-colonnade-cyber-adatvedelmi-felelossegbiztositassal
