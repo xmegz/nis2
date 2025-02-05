@@ -7,12 +7,13 @@ https://nki.gov.hu/intezet/tartalom/erinti-a-cegemet-a-nis2-szabalyozas/
 
 ### SZTFH - Nyilvántartásba vétel - Tájékoztató
 https://sztfh.hu/downloads/kiberbiztonsag/eszkoztar/SZTFH_nyilv%C3%A1ntartas_tajekoztato.pdf
-https://sztfh.hu/downloads/kiberbiztonsag/eszkoztar/SZTFH_nyilv%C3%A1ntartas_tajekoztato.pdf
 
 ### SZTFH - Nyilvántartásva vétel - 420 Nyivátartásba vételi kérelem
 https://sztfh.hu/ugyintezes/nyomtatvanyok-es-urlapok/sztfh420/
-
 https://sztfh.hu/downloads/kiberbiztonsag/SZTFH420_template_watermark.pdf
+
+### SZTFH - Nyilvántartásva vétel - 421 Érintett szervezet adatváltozásának nyilvántartásba vételére irányuló kérelem
+https://sztfh.hu/ugyintezes/nyomtatvanyok-es-urlapok/sztfh421/
 
 # Jogszabályok
 
