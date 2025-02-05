@@ -19,14 +19,22 @@ https://sztfh.hu/downloads/kiberbiztonsag/SZTFH420_template_watermark.pdf
 ### Európai Bizottság - Új szabályok az EU kritikus fontosságú szervezetei és hálózatai kiberbiztonságának fokozására
 https://digital-strategy.ec.europa.eu/hu/news/new-rules-boost-cybersecurity-eus-critical-entities-and-networks
 
-### Magyar Kormány - 2023. évi XXIII. törvény - a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről
-https://njt.hu/jogszabaly/2023-23-00-00
+### Magyar Kormány - 2024. évi LXIX. törvény - Magyarország kiberbiztonságáról
+https://njt.hu/jogszabaly/2024-69-00-00.3#SZ16@BE1
 
 ### Miniszterelnöki Kabinetiroda - 7/2024. (VI. 24.) MK rendelet -  biztonsági osztályba sorolás követelményeiről, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedésekről
 https://njt.hu/jogszabaly/2024-7-20-7G
 
 ### NKI - Útmutató az MK rendelet gyakorlati alkalmazásához.
 https://nki.gov.hu/it-biztonsag/kiadvanyok/segedletek/eir-utmutato/
+
+### SZTFH - 1/2025. (I. 31.) SZTFH rendelet - a kiberbiztonsági audit lefolytatásának rendjéről és a kiberbiztonsági audit legmagasabb díjáról
+https://njt.hu/jogszabaly/2025-1-20-8K
+
+### SZTFH - 2/2025. (I. 31.) rendelet - a kiberbiztonsági felügyeleti díjról
+https://njt.hu/jogszabaly/2025-2-20-8K.3#CI
+
+
 
 # Szabványok
 
