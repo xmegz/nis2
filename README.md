@@ -53,6 +53,8 @@ https://www.combodo.com/itop-193
 # Gyűjtemény
 https://advisera.com/toolkits/nis-2-documentation-toolkit/
 
+https://www.nis2whitepaper.eu
+
 # Informatikai biztonsági szabályzat minta
 https://webdream.hu/media/downloads/informatikai_biztonsagi_szabalyzat.pdf
 
