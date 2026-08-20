@@ -10,6 +10,7 @@ https://sztfh.hu/downloads/kiberbiztonsag/eszkoztar/SZTFH_nyilv%C3%A1ntartas_taj
 
 ### SZTFH - Nyilvántartásva vétel - 420 Nyivátartásba vételi kérelem
 https://sztfh.hu/ugyintezes/nyomtatvanyok-es-urlapok/sztfh420/
+
 https://sztfh.hu/downloads/kiberbiztonsag/SZTFH420_template_watermark.pdf
 
 ### SZTFH - Nyilvántartásva vétel - 421 Érintett szervezet adatváltozásának nyilvántartásba vételére irányuló kérelem
@@ -48,10 +49,15 @@ https://ncc.gov.hu/ibf-kepzesek-listaja/
 ### IBF éves továbbképzés
 
 https://whitehat.eu/hu/events/kotelezo-kepzes-informaciobiztonsagi-felelosoknek-ibf
+
 https://hqsc.hu/kepzesek/ibf-kepzes/
+
 https://www.training360.com/akciok/kiberbiztonsagi-tovabbkepzes/
+
 https://qfdgroup.com/nis-2-kepzesek-a-legujabb-kovetelmenyek-menten/
+
 https://www.euzert.hu/kepzes/kepzesek/it-biztonsag/ibf-kotelezo-eves-tovabbkepzes-incidenskezelesi-fokusszal
+
 https://cis-cert.hu/kotelezo-IBF-eves-tovabbkepzes
 
 # Szabványok
