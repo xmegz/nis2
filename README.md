@@ -35,7 +35,24 @@ https://njt.hu/jogszabaly/2025-1-20-8K
 ### SZTFH - 2/2025. (I. 31.) rendelet - a kiberbiztonsági felügyeleti díjról
 https://njt.hu/jogszabaly/2025-2-20-8K.3#CI
 
+### MKIK - NIS2 audit felkészítés
+https://nis2.mkik.hu/
 
+# Képzés
+
+### IBF képzés
+
+https://ncc.gov.hu/ibf-kepzesek-listaja/
+
+
+### IBF éves továbbképzés
+
+https://whitehat.eu/hu/events/kotelezo-kepzes-informaciobiztonsagi-felelosoknek-ibf
+https://hqsc.hu/kepzesek/ibf-kepzes/
+https://www.training360.com/akciok/kiberbiztonsagi-tovabbkepzes/
+https://qfdgroup.com/nis-2-kepzesek-a-legujabb-kovetelmenyek-menten/
+https://www.euzert.hu/kepzes/kepzesek/it-biztonsag/ibf-kotelezo-eves-tovabbkepzes-incidenskezelesi-fokusszal
+https://cis-cert.hu/kotelezo-IBF-eves-tovabbkepzes
 
 # Szabványok
 
